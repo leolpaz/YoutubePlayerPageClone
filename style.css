@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.topnavbar {
+  background-color: white;
+  position: fixed;
+  height: 0%;
+  display: flex;
+
+}
+
+.logo {
+  position: absolute;
+  display: inline-flex;
+  width: 100px;
+  height: 30px;
+  object-fit: contain;
+  margin: auto;
+  left: 0px;
+}
+
+.search {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
