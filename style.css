@@ -6,24 +6,33 @@
 
 .topnavbar {
   background-color: white;
-  position: fixed;
+  
   height: 0%;
   display: flex;
+  justify-content: space-between;
 
 }
 
 .logo {
-  position: absolute;
+  
   display: inline-flex;
   width: 100px;
   height: 30px;
   object-fit: contain;
-  margin: auto;
-  left: 0px;
+  margin: 0;
+  float: left;
 }
 
 .search {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: left;
+}
+.search-button{
+  width: 30px;
+  height: 30px;
+  margin-left: 0px;
+  float: right;
+ 
 }
