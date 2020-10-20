@@ -3,19 +3,19 @@
   padding: 0;
 
 }
-.topnavbar{
-  margin: 15px;
-}
+
 nav {
   background-color: white;
-  
+  padding: 5px;
   height: 0%;
   display: flex;
   justify-content: space-around;
 }
+.iconify{
+  font-size: 170%;  
+}
 
-.logo {
-  
+.logo {  
   display: inline-flex;
   width: 100px;
   height: 30px;
@@ -25,18 +25,21 @@ nav {
 }
 
 .search {
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   float: left;
 }
 .search-input{
-  width: 400px;
+  width: 600px;
+  max-width: 400%;
+  flex-direction: row;
+  right:10%;
 }
 .search-button{
-  width: 30px;
+  width: 65px;
   height: 30px;
-  
-  float: right;
- 
+  border: 1px;
+  float: right; 
+  flex-direction: row;
 }
