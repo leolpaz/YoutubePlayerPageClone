@@ -65,9 +65,9 @@ nav {
   margin: 10px;
 }
 .video-information{
-  padding-left:7%;
+  padding-left:8%;
   padding-right:7%;
-  padding-top: 2%;
+  padding-top: 1.5%;
   margin-top: 0%;
   
   margin-left: 0%;
@@ -129,9 +129,23 @@ hr{
 }
 .video-sug{
   display: flex;
+  
 }
 .img-sug{
-  width: 40%;
-  height: 80%;
-  padding-right: 60%;
+  width: 168px;
+  height: 94px;
+  
+}
+.text-sug{
+  height: 94px;
+  width: 226px;
+}
+.tittle-sug{
+  font-size:80%;
+  height: 32px;
+  width: 202px;
+}
+.view-sug{
+  height: 18px;
+  
 }
