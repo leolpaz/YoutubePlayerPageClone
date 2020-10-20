@@ -3,7 +3,9 @@
   padding: 0;
 
 }
-
+body{
+  font-family: sans-serif;
+}
 nav {
   background-color: white;
   padding: 0.5%;
@@ -14,6 +16,7 @@ nav {
   margin-right:0.5%;
   margin-bottom: auto;
 }
+
 .iconify{
   font-size: 170%;
   justify-content: space-between;
@@ -65,6 +68,12 @@ nav {
   padding-left:7%;
   padding-right:7%;
   padding-top: 2%;
+  margin-top: 0%;
+  margin-bottom: 45%;
+  margin-left: 0%;
+  margin-right: 64%;
+  display: flex;
+
 }
 
 .video{
@@ -75,10 +84,22 @@ nav {
 .hashtag{
   margin-top: 1%;
   color: rgb(20, 47, 197);
+  font-family: roboto;
 }
-.iconify{
-  color:rgb(46, 44, 44);
+h5{
+  font-family: roboto;
+  font: medium;
+  font-weight: 500;
 }
-  
-  
+
+h5 {
+  font-family: roboto;
+  font-weight: 700;
+  font: bold;
+  float: left;
+}
+
+.icons{
+  font-size: 65%;
+  float: right;
 }
