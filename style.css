@@ -51,7 +51,7 @@ nav {
 }
 .search-button{
   width: 65px;
-  height: 71%;
+  height: 19px;
   border: 1px solid rgb(206, 198, 198);
   float: right; 
   flex-direction: row;
@@ -64,7 +64,7 @@ nav {
   justify-content: space-between;
   margin: 10px;
 }
-.principal-page{
+.main-page{
   padding-left:8%;
   padding-right:7%;
   padding-top: 1.5%;
@@ -122,6 +122,10 @@ h5 {
 .video-channel{
   display: flex;
   
+}
+
+hr{
+  margin-bottom: 5%;
 }
 
 .channel-avatar{
@@ -187,3 +191,63 @@ h5 {
   margin-left:3%;
   color:rgba(46, 45, 45, 0.849)
 }
+
+.hr2 {
+  margin-top: 5%;
+}
+.commentaries{
+  display: flex;
+}
+
+.first-line{
+  display: flex;
+  margin-bottom: 30px;
+  }
+
+.com-count{
+  width: 240px;
+  height: auto;  
+}
+
+.sort{
+  display: flex;
+}
+
+
+.sort-icon{
+  width: 3%;
+  height: 70%;
+  margin-right: 8px;
+    
+}
+
+.sort-text{
+  float: right;
+  margin-right: 440px;
+}
+
+.com-avatar{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  justify-content: space-between; 
+}
+
+.comments{
+  display: flex;
+  flex-direction: row;
+}
+.com-avatar{
+  margin-right: 10px;
+}
+
+.add-comment{
+  margin-top: 15px;
+} 
+
+.user-com{
+  width: 500px;
+  height: 20px;
+}
+
+
