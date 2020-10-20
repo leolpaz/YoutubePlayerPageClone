@@ -64,7 +64,7 @@ nav {
   justify-content: space-between;
   margin: 10px;
 }
-.video-information{
+.principal-page{
   padding-left:8%;
   padding-right:7%;
   padding-top: 1.5%;
@@ -75,7 +75,10 @@ nav {
   display: flex;
 
 }
-
+.video-information{
+ display: flex;
+ flex-direction: column;
+}
 .video{
   margin: 0px;
   height: 400px;
@@ -116,9 +119,39 @@ h5 {
   border:none;
   margin-top:45%;
 }
-hr{
- width: 56px;
- height: 23px;
+.video-channel{
+  display: flex;
+  
+}
+
+.channel-avatar{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  
+}
+.channel-info{
+  margin-left: 3%;
+  margin-right: 40%;
+}
+.subscribe{
+  background-color:red;
+  color:white;
+  border-color: red;
+  height: 45%;
+  width: 150%;
+  border-radius: 5%;
+}
+.subscribers{
+  color: rgb(83, 80, 80);
+}
+.authors{
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+.show-more{
+  color: rgb(83, 80, 80);
 }
 
 
@@ -129,6 +162,7 @@ hr{
 }
 .video-sug{
   display: flex;
+  margin-top:3%
   
 }
 .img-sug{
@@ -144,8 +178,12 @@ hr{
   font-size:80%;
   height: 32px;
   width: 202px;
+  margin-left: 3%;
 }
 .view-sug{
   height: 18px;
-  
+  font-size: 60%;
+  margin:1%;
+  margin-left:3%;
+  color:rgba(46, 45, 45, 0.849)
 }
