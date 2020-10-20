@@ -6,10 +6,12 @@
 
 nav {
   background-color: white;
-  padding: 5px;
+  padding: 0.5%;
   height: 0%;
   display: flex;
   justify-content: space-around;
+  margin-left:0.5%;
+  margin-right:0.5%;
   margin-bottom: auto;
 }
 .iconify{
@@ -41,11 +43,13 @@ nav {
   max-width: 400%;
   flex-direction: row;
   right:10%;
+  height: 10%;
+  
 }
 .search-button{
   width: 65px;
-  height: 30px;
-  border: 1px;
+  height: 71%;
+  border: 1px solid rgb(206, 198, 198);
   float: right; 
   flex-direction: row;
 }
@@ -56,4 +60,25 @@ nav {
   border-radius: 50%;
   justify-content: space-between;
   margin: 10px;
+}
+.video-information{
+  padding-left:7%;
+  padding-right:7%;
+  padding-top: 2%;
+}
+
+.video{
+  margin: 0px;
+  height: 315px;
+  width: 560px;
+}
+.hashtag{
+  margin-top: 1%;
+  color: rgb(20, 47, 197);
+}
+.iconify{
+  color:rgb(46, 44, 44);
+}
+  
+  
 }
