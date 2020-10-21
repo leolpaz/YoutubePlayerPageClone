@@ -22,9 +22,12 @@ nav {
 
 }
 
-
+.fa{
+  cursor:pointer;
+}
 .fa-bars {
   margin: 1%;
+
   
 }
 
@@ -36,8 +39,9 @@ nav {
   object-fit: contain;  
   float: left;
   margin-top: 0.5%;
-  margin-right: 5%;
-  margin-left: -5%;
+  margin-right: 5px;
+  margin-left: 5px;
+  cursor:pointer;
   }
 
 
@@ -71,6 +75,7 @@ nav {
   border-left: none;
   float: right;
   flex-direction: row;
+  cursor:pointer;
 }
 
 
@@ -79,6 +84,7 @@ nav {
   height: 24px;
   justify-content: space-between;
   margin: 10px;
+  cursor:pointer;
 }
 
 
@@ -88,6 +94,7 @@ nav {
   border-radius: 50%;
   justify-content: space-between;
   margin: 10px;
+  cursor:pointer;
 }
 
 
@@ -116,6 +123,9 @@ main {
   width: 700px;
 }
 
+.bottom-line{
+  display:flex;
+}
 
 h4{
   float:left;
@@ -128,13 +138,15 @@ h4{
   margin-top: 1%;
   color: #0668da;
   font-family: roboto;
+  cursor:pointer;
 }
 
 
 .video-icons {
   float: left;
-  margin-left: 30%;
+  margin-left: 20%;
   margin-top: 3%;
+  
   
 }
 
@@ -152,11 +164,13 @@ h4{
 .save {
   border: none;
   float: left;
+  
 }
 
 
 .more {
   float: left;
+  cursor:pointer;
 }
 
 
@@ -164,6 +178,7 @@ h4{
   border: none;
   margin-top: 45%;
   float: left;
+  cursor:pointer;
 }
 
 
@@ -176,6 +191,7 @@ h4{
   width: 50px;
   height: 50px;
   border-radius: 50%;
+  cursor:pointer;
 
 }
 
@@ -210,6 +226,7 @@ h2{
   color: rgb(83, 80, 80);
   font-family: roboto;
   font-size: 14px;
+  cursor:pointer;
 }
 
 
@@ -221,6 +238,7 @@ h2{
   width: 117px;
   border-radius: 5%;
   margin-left: 40%;
+  cursor:pointer;
 }
 
 
@@ -247,12 +265,14 @@ h2{
 
 .sort {
   display: flex;
+  cursor:pointer;
 }
 
 .sort-icon {
   width: 3%;
   height: 70%;
   margin-right: 8px;
+  
 
 }
 
@@ -275,6 +295,7 @@ h2{
   border-radius: 50%;
   justify-content: space-between;
   margin-right: 10px;
+  cursor:pointer;
 }
 
 
@@ -353,6 +374,7 @@ hr {
 .img-sug {
   width: 168px;
   height: 94px;
+  cursor:pointer;
 
 }
 
