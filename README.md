@@ -8,6 +8,10 @@
 
 We made a clone of a youtube player page using HTML and CSS, the page has a functional video, a mock suggestion section a mock commentary section, the page was made with the 1366x768 resolution in mind and might not be responsive in other resolutions
 
+## Live Server
+
+https://raw.githack.com/leolpaz/YoutubePlayerPageClone/YoutubePage/Index.Html
+
 ## Built With
 
 - HTML

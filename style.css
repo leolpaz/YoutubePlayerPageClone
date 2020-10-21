@@ -13,7 +13,7 @@ body {
 nav {
   background-color: white;
   padding: 0.5%;
-  height: 0%;
+  height: 0.01%;
   display: flex;
   justify-content: space-around;
   margin-left: 0.5%;
@@ -57,17 +57,18 @@ nav {
   max-width: 400%;
   flex-direction: row;
   right: 10%;
-  height: 10%;
-  border-right: none;
   height: 28px;
   box-shadow: none;
+  border-right: none;
+  box-sizing: border-box;
 }
 
 
 .search-button {
   width: 65px;
-  height: 32px;
+  height: 28px;
   border: 1px solid rgb(206, 198, 198);
+  border-left: none;
   float: right;
   flex-direction: row;
 }
@@ -116,6 +117,13 @@ main {
 }
 
 
+h4{
+  float:left;
+  margin-top: 5%;
+    
+}
+
+
 .hashtag {
   margin-top: 1%;
   color: #0668da;
@@ -125,7 +133,9 @@ main {
 
 .video-icons {
   float: left;
-  margin-left: 60%;
+  margin-left: 30%;
+  margin-top: 3%;
+  
 }
 
 
@@ -282,8 +292,6 @@ h2{
 
 .loading {
   display: flex;
-
-  display: flex;
   justify-content: center;
   height: 100px;
   margin-top: 3%;
@@ -303,7 +311,7 @@ h2{
 
 
 .hr-sug {
-  height: 0px;
+  height: 0;
   margin-top: 2%;
 }
 
@@ -316,7 +324,6 @@ h2{
 
 h5 {
   font-family: roboto;
-  font: medium;
   font-weight: 500;
   margin-left: 200px;
   margin-right: 3%;
