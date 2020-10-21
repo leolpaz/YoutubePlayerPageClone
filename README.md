@@ -4,9 +4,9 @@
 
 > On this project we make a single page clone of a youtube player page.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://raw.githubusercontent.com/leolpaz/YoutubePlayerPageClone/YoutubePage/app_screenshot.png)
 
-Additional description about the project and its features.
+We made a clone of a youtube player page using HTML and CSS, the page has a functional video, a mock suggestion section a mock commentary section, the page was made with the 1366x768 resolution in mind and might not be responsive in other resolutions
 
 ## Built With
 
@@ -34,10 +34,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
-- w3schools
+- [Microverse](https://www.microverse.org)
+- [w3schools](https://www.w3schools.com)
 - Our standup team
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.

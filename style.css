@@ -25,7 +25,7 @@ nav {
 
 .fa-bars {
   margin: 1%;
-  margin-right: 2%;
+  
 }
 
 
@@ -33,11 +33,12 @@ nav {
   display: inline-flex;
   width: 80px;
   height: 30px;
-  object-fit: contain;
-  margin: 0;
+  object-fit: contain;  
   float: left;
   margin-top: 0.5%;
-}
+  margin-right: 5%;
+  margin-left: -5%;
+  }
 
 
 .search {
@@ -89,7 +90,7 @@ nav {
 }
 
 
-.main-page {
+main {
   padding-left: 8%;
   padding-right: 7%;
   padding-top: 1.5%;
@@ -131,6 +132,10 @@ nav {
 .icons {
   font-size: 65%;
   float: left;
+}
+
+.vid-icons{
+  color: gray;
 }
 
 
