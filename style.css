@@ -22,13 +22,14 @@ nav {
 
 }
 
-.fa{
-  cursor:pointer;
+.fa {
+  cursor: pointer;
 }
+
 .fa-bars {
   margin: 1%;
 
-  
+
 }
 
 
@@ -36,13 +37,13 @@ nav {
   display: inline-flex;
   width: 80px;
   height: 30px;
-  object-fit: contain;  
+  object-fit: contain;
   float: left;
   margin-top: 0.5%;
   margin-right: 5px;
   margin-left: 5px;
-  cursor:pointer;
-  }
+  cursor: pointer;
+}
 
 
 .search {
@@ -75,7 +76,7 @@ nav {
   border-left: none;
   float: right;
   flex-direction: row;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -84,7 +85,7 @@ nav {
   height: 24px;
   justify-content: space-between;
   margin: 10px;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -94,7 +95,7 @@ nav {
   border-radius: 50%;
   justify-content: space-between;
   margin: 10px;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -102,9 +103,7 @@ main {
   padding-left: 8%;
   padding-right: 7%;
   padding-top: 1.5%;
-  margin-top: 0%;
   background-color: #f9f9f9;
-  margin-left: 0%;
   justify-content: center;
   display: flex;
 
@@ -123,14 +122,10 @@ main {
   width: 700px;
 }
 
-.bottom-line{
-  display:flex;
-}
 
-h4{
-  float:left;
-  margin-top: 5%;
-    
+h4 {
+  float: left;
+  margin-bottom: 3%;
 }
 
 
@@ -138,16 +133,14 @@ h4{
   margin-top: 1%;
   color: #0668da;
   font-family: roboto;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
 .video-icons {
   display: flex;
-  margin-left: 29%;
-  margin-top: 3%;
-  
-  
+  margin-left: 65%;
+  margin-top:-7%;
 }
 
 
@@ -156,7 +149,7 @@ h4{
   float: left;
 }
 
-.vid-icons{
+.vid-icons {
   color: gray;
 }
 
@@ -164,13 +157,13 @@ h4{
 .save {
   border: none;
   float: left;
-  
+
 }
 
 
 .more {
   float: left;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -178,7 +171,7 @@ h4{
   border: none;
   margin-top: 45%;
   float: left;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -191,7 +184,7 @@ h4{
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  cursor:pointer;
+  cursor: pointer;
 
 }
 
@@ -202,7 +195,7 @@ h4{
 }
 
 
-h2{
+h2 {
   font-family: roboto;
   font-size: 16px;
 }
@@ -226,7 +219,7 @@ h2{
   color: rgb(83, 80, 80);
   font-family: roboto;
   font-size: 14px;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -238,7 +231,7 @@ h2{
   width: 117px;
   border-radius: 5%;
   margin-left: 40%;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -265,14 +258,14 @@ h2{
 
 .sort {
   display: flex;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .sort-icon {
   width: 3%;
   height: 70%;
   margin-right: 8px;
-  
+
 
 }
 
@@ -295,7 +288,7 @@ h2{
   border-radius: 50%;
   justify-content: space-between;
   margin-right: 10px;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 
@@ -374,7 +367,7 @@ hr {
 .img-sug {
   width: 168px;
   height: 94px;
-  cursor:pointer;
+  cursor: pointer;
 
 }
 
