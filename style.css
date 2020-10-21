@@ -137,10 +137,15 @@ h4 {
 }
 
 
+.bottom-line{
+  margin-top:2%;
+}
+
+
 .video-icons {
   display: flex;
   margin-left: 60%;
-  margin-top:-7%;
+  margin-top:-2%;
 }
 
 
