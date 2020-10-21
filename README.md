@@ -32,10 +32,6 @@ https://raw.githack.com/leolpaz/YoutubePlayerPageClone/YoutubePage/Index.Html
 - LinkedIn: [Gutavo Sanmartin](https://www.linkedin.com/in/gustavo-sanmartin-b3b68261/)
 
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org)
