@@ -31,7 +31,6 @@ https://raw.githack.com/leolpaz/YoutubePlayerPageClone/YoutubePage/Index.Html
 - Twitter: [@7aves](https://twitter.com/7aves)
 - LinkedIn: [Gutavo Sanmartin](https://www.linkedin.com/in/gustavo-sanmartin-b3b68261/)
 
-
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org)
