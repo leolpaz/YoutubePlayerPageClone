@@ -143,8 +143,8 @@ h4{
 
 
 .video-icons {
-  float: left;
-  margin-left: 20%;
+  display: flex;
+  margin-left: 29%;
   margin-top: 3%;
   
   
