@@ -15,17 +15,23 @@ nav {
   margin-left:0.5%;
   margin-right:0.5%;
   margin-bottom: auto;
+  
 }
 
 .iconify{
-  font-size: 170%;
+  width: 24px;
+  height: 24px;
   justify-content: space-between;
   margin: 10px;
   }
-
+ .fa-bars{
+   margin: 1%;
+   margin-right: 2%;
+   
+ }
 .logo {  
   display: inline-flex;
-  width: 100px;
+  width: 80px;
   height: 30px;
   object-fit: contain;
   margin: 0;
@@ -40,6 +46,7 @@ nav {
   float: left;
   height: fit-content;
   margin-top: 0.5%;
+  
 }
 .search-input{
   width: 600px;
@@ -47,11 +54,14 @@ nav {
   flex-direction: row;
   right:10%;
   height: 10%;
+  border-right: none;
+  height: 28px;
+  box-shadow: none;
   
 }
 .search-button{
   width: 65px;
-  height: 19px;
+  height: 32px;
   border: 1px solid rgb(206, 198, 198);
   float: right; 
   flex-direction: row;
@@ -69,9 +79,9 @@ nav {
   padding-right:7%;
   padding-top: 1.5%;
   margin-top: 0%;
-  
+  background-color:#f9f9f9;
   margin-left: 0%;
-  
+  justify-content: center;
   display: flex;
 
 }
@@ -86,7 +96,7 @@ nav {
 }
 .hashtag{
   margin-top: 1%;
-  color: rgb(20, 47, 197);
+  color: #0668da;
   font-family: roboto;
 }
 h5{
@@ -126,11 +136,13 @@ h5 {
 
 hr{
   margin-bottom: 5%;
+  color:rgb(255, 255, 255);
+  font-size: xx-small;
 }
 
 .channel-avatar{
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   
 }
@@ -139,12 +151,13 @@ hr{
   margin-right: 40%;
 }
 .subscribe{
-  background-color:red;
+  background-color:#cc0000;
   color:white;
-  border-color: red;
-  height: 45%;
-  width: 150%;
+  border-color: #cc0000;
+  height: 37px;
+  width: 117px;
   border-radius: 5%;
+  margin-left: 40%;
 }
 .subscribers{
   color: rgb(83, 80, 80);
@@ -161,12 +174,13 @@ hr{
 
 .suggest{
   display: grid;
-  grid-template-rows: repeat(7,1fr);
+  grid-template-rows: repeat(9,1fr);
   margin-left:2%;
 }
 .video-sug{
   display: flex;
-  margin-top:3%
+  margin-top:3%;
+  
   
 }
 .img-sug{
@@ -213,7 +227,6 @@ hr{
   display: flex;
 }
 
-
 .sort-icon{
   width: 3%;
   height: 70%;
@@ -243,6 +256,7 @@ hr{
 
 .add-comment{
   margin-top: 15px;
+  margin-bottom: 5%;
 } 
 
 .user-com{
@@ -250,4 +264,19 @@ hr{
   height: 20px;
 }
 
-
+.loading{
+  display:flex;
+  
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  margin-top: 3%;
+}
+.loading-icon{
+  width: 20px;
+  height: 20px;
+  margin-top: 2%;
+}
+.text-loading{
+  margin-top: 2%;
+}
