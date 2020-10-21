@@ -171,11 +171,27 @@ hr{
   color: rgb(83, 80, 80);
 }
 
+.up-next{
+  display: flex;
+  
+}
+.autoplay{
+  margin-left: 200px;
+  margin-right: 3%;
+}
+.fa-toggle-on{
+  color:blue
+}
 
-.suggest{
+.next-sug{
   display: grid;
   grid-template-rows: repeat(9,1fr);
   margin-left:2%;
+}
+.hr-sug{
+  height: 0px;
+  margin-top: 2%;
+  
 }
 .video-sug{
   display: flex;
