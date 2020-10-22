@@ -19,13 +19,13 @@ https://raw.githack.com/leolpaz/YoutubePlayerPageClone/YoutubePage/Index.Html
 
 ## Authors
 
-👤 **Author1**
+👤 **Leonardo L. da Paz**
 
 - GitHub: [@leolpaz](https://github.com/leolpaz)
 - Twitter: [@leonardolpaz95](https://twitter.com/leonardolpaz95)
 - LinkedIn: [Leonardo Paz](https://www.linkedin.com/in/leonardo-paz-a925611b5/)
 
-👤 **Author2**
+👤 **Gustavo A. Sanmartin**
 
 - GitHub: [@gasb150](https://github.com/gasb150)
 - Twitter: [@7aves](https://twitter.com/7aves)
