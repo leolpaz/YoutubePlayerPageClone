@@ -1,76 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Embedding Images and Video
 
-> One paragraph statement about the project.
+> On this project we make a single page clone of a youtube player page.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://raw.githubusercontent.com/leolpaz/YoutubePlayerPageClone/YoutubePage/app_screenshot.png)
 
-Additional description about the project and its features.
+We made a clone of a youtube player page using HTML and CSS, the page has a functional video, a mock suggestion section a mock commentary section, the page was made with the 1366x768 resolution in mind and might not be responsive in other resolutions
+
+## Live Server
+
+https://raw.githack.com/leolpaz/YoutubePlayerPageClone/YoutubePage/Index.Html
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- HTML
+- CSS
 
 ## Authors
 
-👤 **Author1**
+👤 **Leonardo L. da Paz**
 
 - GitHub: [@leolpaz](https://github.com/leolpaz)
 - Twitter: [@leonardolpaz95](https://twitter.com/leonardolpaz95)
 - LinkedIn: [Leonardo Paz](https://www.linkedin.com/in/leonardo-paz-a925611b5/)
 
-👤 **Author2**
+👤 **Gustavo A. Sanmartin**
 
 - GitHub: [@gasb150](https://github.com/gasb150)
 - Twitter: [@7aves](https://twitter.com/7aves)
 - LinkedIn: [Gutavo Sanmartin](https://www.linkedin.com/in/gustavo-sanmartin-b3b68261/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- [Microverse](https://www.microverse.org)
+- [w3schools](https://www.w3schools.com)
+- Our standup team
